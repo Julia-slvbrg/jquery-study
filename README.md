@@ -22,7 +22,7 @@ This application explores the use of the jQuery to dynamically display informati
 ![Display pictures](./images/display-pictures.png)
 
 ## Demonstration
-[Link (deploy)](https://contact-list-indol-iota.vercel.app/)
+[Link (deploy)](https://jquery-study.vercel.app/)
 
 
 
