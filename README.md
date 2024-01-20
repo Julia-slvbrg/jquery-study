@@ -47,5 +47,3 @@ $ cd jquery-study
 
 ## Developer
 [LinkedIn](https://www.linkedin.com/in/julia-silva-borges/)
-
-C:\Users\julia\Desktop\Curso Full Stack\4-Python Full Stack\frontend\3-jquery\images
