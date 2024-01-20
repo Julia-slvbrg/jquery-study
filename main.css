@@ -43,6 +43,8 @@ button{
 ul{
     display: flex;
     flex-wrap: wrap;
+    gap: 6px;
+    padding: 10px;
 }
 ul li{
     max-width: 25%;
